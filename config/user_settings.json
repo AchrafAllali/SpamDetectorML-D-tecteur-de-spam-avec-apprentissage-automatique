@@ -1,0 +1,9 @@
+{
+  "theme": "light",
+  "language": "en",
+  "font_size": 13,
+  "algorithm": "svm",
+  "max_features": 3000,
+  "min_accuracy": 0.85,
+  "backup_enabled": true
+}

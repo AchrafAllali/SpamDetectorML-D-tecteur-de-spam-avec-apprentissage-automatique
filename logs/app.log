@@ -1,0 +1,349 @@
+2026-01-03 01:58:32,611 - spam_detector - INFO - ============================================================
+2026-01-03 01:58:32,611 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 01:58:32,611 - spam_detector - INFO - ============================================================
+2026-01-03 02:01:23,232 - spam_detector - INFO - ============================================================
+2026-01-03 02:01:23,232 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:01:23,232 - spam_detector - INFO - ============================================================
+2026-01-03 02:05:01,098 - spam_detector - INFO - ============================================================
+2026-01-03 02:05:01,099 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:05:01,102 - spam_detector - INFO - ============================================================
+2026-01-03 02:05:21,324 - spam_detector - INFO - ============================================================
+2026-01-03 02:05:21,325 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 02:05:21,325 - spam_detector - INFO - ============================================================
+2026-01-03 02:05:23,496 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 02:08:14,801 - spam_detector - INFO - ============================================================
+2026-01-03 02:08:14,860 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 02:08:14,861 - spam_detector - INFO - ============================================================
+2026-01-03 02:17:48,938 - spam_detector - INFO - ============================================================
+2026-01-03 02:17:48,938 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:17:48,954 - spam_detector - INFO - ============================================================
+2026-01-03 02:18:31,374 - spam_detector - INFO - ============================================================
+2026-01-03 02:18:31,375 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:18:31,376 - spam_detector - INFO - ============================================================
+2026-01-03 02:22:00,883 - spam_detector - INFO - ============================================================
+2026-01-03 02:22:00,885 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:22:00,885 - spam_detector - INFO - ============================================================
+2026-01-03 02:22:07,887 - spam_detector - INFO - ============================================================
+2026-01-03 02:22:07,895 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 02:22:07,897 - spam_detector - INFO - ============================================================
+2026-01-03 02:22:09,384 - spam_detector - CRITICAL - ❌ ERREUR CRITIQUE: 'DashboardTab' object has no attribute 'refresh_data'
+Traceback (most recent call last):
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\main.py", line 28, in main
+    app = MainWindow()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 40, in __init__
+    self.create_widgets()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 54, in create_widgets
+    self.create_tabs()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 119, in create_tabs
+    self.dashboard_tab = DashboardTab(
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\dashboard_tab.py", line 28, in __init__
+    self.create_widgets()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\dashboard_tab.py", line 54, in create_widgets
+    command=self.refresh_data,
+AttributeError: 'DashboardTab' object has no attribute 'refresh_data'
+2026-01-03 02:22:26,798 - spam_detector - INFO - ============================================================
+2026-01-03 02:22:26,798 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 02:22:26,798 - spam_detector - INFO - ============================================================
+2026-01-03 02:25:11,674 - spam_detector - INFO - ============================================================
+2026-01-03 02:25:11,674 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:25:11,674 - spam_detector - INFO - ============================================================
+2026-01-03 02:25:17,492 - spam_detector - INFO - ============================================================
+2026-01-03 02:25:17,492 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 02:25:17,492 - spam_detector - INFO - ============================================================
+2026-01-03 02:25:20,629 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 02:28:24,856 - spam_detector - INFO - ============================================================
+2026-01-03 02:28:24,856 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 02:28:24,856 - spam_detector - INFO - ============================================================
+2026-01-03 02:31:29,752 - spam_detector - INFO - ============================================================
+2026-01-03 02:31:29,752 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 02:31:29,752 - spam_detector - INFO - ============================================================
+2026-01-03 02:31:35,086 - spam_detector - INFO - ============================================================
+2026-01-03 02:31:35,086 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 02:31:35,086 - spam_detector - INFO - ============================================================
+2026-01-03 02:31:37,128 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 02:34:44,171 - spam_detector - INFO - ============================================================
+2026-01-03 02:34:44,196 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 02:34:44,202 - spam_detector - INFO - ============================================================
+2026-01-03 10:46:34,556 - spam_detector - INFO - ============================================================
+2026-01-03 10:46:34,556 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 10:46:34,564 - spam_detector - INFO - ============================================================
+2026-01-03 10:46:41,931 - spam_detector - INFO - ============================================================
+2026-01-03 10:46:41,939 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 10:46:41,941 - spam_detector - INFO - ============================================================
+2026-01-03 10:46:44,995 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 10:47:26,520 - spam_detector - INFO - ============================================================
+2026-01-03 10:47:26,545 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 10:47:26,579 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:21,265 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:21,267 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 10:48:21,268 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:24,948 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:24,949 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 10:48:24,949 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:26,836 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 10:48:49,321 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:49,382 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 10:48:49,399 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:52,047 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:52,048 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 10:48:52,048 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:54,793 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:54,794 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 10:48:54,795 - spam_detector - INFO - ============================================================
+2026-01-03 10:48:56,313 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 10:49:00,604 - spam_detector - INFO - ============================================================
+2026-01-03 10:49:00,648 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 10:49:00,658 - spam_detector - INFO - ============================================================
+2026-01-03 16:20:38,927 - spam_detector - INFO - ============================================================
+2026-01-03 16:20:38,937 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 16:20:38,937 - spam_detector - INFO - ============================================================
+2026-01-03 16:20:55,629 - spam_detector - INFO - ============================================================
+2026-01-03 16:20:55,629 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 16:20:55,629 - spam_detector - INFO - ============================================================
+2026-01-03 16:20:58,074 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-03 16:24:21,576 - spam_detector - INFO - ============================================================
+2026-01-03 16:24:21,622 - spam_detector - INFO - 👋 Application terminée
+2026-01-03 16:24:21,653 - spam_detector - INFO - ============================================================
+2026-01-03 23:40:42,036 - spam_detector - INFO - ============================================================
+2026-01-03 23:40:42,038 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-03 23:40:42,039 - spam_detector - INFO - ============================================================
+2026-01-03 23:40:56,929 - spam_detector - INFO - ============================================================
+2026-01-03 23:40:56,929 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-03 23:40:56,930 - spam_detector - INFO - ============================================================
+2026-01-03 23:40:59,461 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 00:02:28,449 - spam_detector - INFO - ============================================================
+2026-01-04 00:02:28,634 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 00:02:28,665 - spam_detector - INFO - ============================================================
+2026-01-04 01:14:03,179 - spam_detector - INFO - ============================================================
+2026-01-04 01:14:03,181 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:14:03,183 - spam_detector - INFO - ============================================================
+2026-01-04 01:14:07,503 - spam_detector - INFO - ============================================================
+2026-01-04 01:14:07,504 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:14:07,505 - spam_detector - INFO - ============================================================
+2026-01-04 01:14:09,687 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 01:26:40,399 - spam_detector - INFO - ============================================================
+2026-01-04 01:26:40,405 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:26:40,405 - spam_detector - INFO - ============================================================
+2026-01-04 01:26:42,396 - spam_detector - INFO - ============================================================
+2026-01-04 01:26:42,396 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:26:42,398 - spam_detector - INFO - ============================================================
+2026-01-04 01:26:46,797 - spam_detector - INFO - ============================================================
+2026-01-04 01:26:46,797 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:26:46,797 - spam_detector - INFO - ============================================================
+2026-01-04 01:26:48,324 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 01:28:49,800 - spam_detector - INFO - ============================================================
+2026-01-04 01:28:49,839 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:28:49,840 - spam_detector - INFO - ============================================================
+2026-01-04 01:28:52,412 - spam_detector - INFO - ============================================================
+2026-01-04 01:28:52,412 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:28:52,412 - spam_detector - INFO - ============================================================
+2026-01-04 01:28:55,018 - spam_detector - INFO - ============================================================
+2026-01-04 01:28:55,018 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:28:55,018 - spam_detector - INFO - ============================================================
+2026-01-04 01:28:56,457 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 01:31:45,579 - spam_detector - INFO - ============================================================
+2026-01-04 01:31:45,649 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:31:45,649 - spam_detector - INFO - ============================================================
+2026-01-04 01:31:49,510 - spam_detector - INFO - ============================================================
+2026-01-04 01:31:49,510 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:31:49,510 - spam_detector - INFO - ============================================================
+2026-01-04 01:31:51,601 - spam_detector - INFO - ============================================================
+2026-01-04 01:31:51,601 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:31:51,601 - spam_detector - INFO - ============================================================
+2026-01-04 01:31:52,819 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 01:32:02,240 - spam_detector - INFO - ============================================================
+2026-01-04 01:32:02,267 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:32:02,269 - spam_detector - INFO - ============================================================
+2026-01-04 01:43:01,085 - spam_detector - INFO - ============================================================
+2026-01-04 01:43:01,085 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:43:01,085 - spam_detector - INFO - ============================================================
+2026-01-04 01:43:03,250 - spam_detector - INFO - ============================================================
+2026-01-04 01:43:03,250 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:43:03,250 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-04 01:43:03,250 - spam_detector - INFO - ============================================================
+2026-01-04 01:43:04,477 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 01:44:42,721 - spam_detector - INFO - ============================================================
+2026-01-04 01:44:42,730 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:44:42,783 - spam_detector - INFO - ============================================================
+2026-01-04 01:44:44,529 - spam_detector - INFO - ============================================================
+2026-01-04 01:44:44,529 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:44:44,529 - spam_detector - INFO - ============================================================
+2026-01-04 01:44:46,612 - spam_detector - INFO - ============================================================
+2026-01-04 01:44:46,628 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:44:46,628 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-04 01:44:46,628 - spam_detector - INFO - ============================================================
+2026-01-04 01:44:47,815 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 01:54:02,882 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:02,898 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:54:02,976 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:07,068 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:07,069 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 01:54:07,070 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:09,466 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:09,466 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 01:54:09,466 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-04 01:54:09,466 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:10,613 - spam_detector - CRITICAL - ❌ ERREUR CRITIQUE: 'SettingsTab' object has no attribute 'create_widgets'
+Traceback (most recent call last):
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\main.py", line 33, in main
+    app = MainWindow()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 40, in __init__
+    self.create_widgets()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 54, in create_widgets
+    self.create_tabs()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 155, in create_tabs
+    self.settings_tab = SettingsTab(self.notebook)
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\settings_tab.py", line 603, in __init__
+    self.create_widgets()
+AttributeError: 'SettingsTab' object has no attribute 'create_widgets'
+2026-01-04 01:54:27,584 - spam_detector - INFO - ============================================================
+2026-01-04 01:54:27,636 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 01:54:27,638 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:02,901 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:02,901 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 02:00:02,912 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:05,060 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:05,060 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 02:00:05,076 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-04 02:00:05,076 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:06,309 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 02:00:23,973 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:24,000 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 02:00:24,004 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:26,281 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:26,281 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 02:00:26,281 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:28,371 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:28,371 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 02:00:28,371 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-04 02:00:28,371 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:29,574 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 02:00:51,070 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:51,143 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 02:00:51,153 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:53,190 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:53,190 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-04 02:00:53,190 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:55,234 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:55,234 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-04 02:00:55,234 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-04 02:00:55,234 - spam_detector - INFO - ============================================================
+2026-01-04 02:00:56,473 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-04 02:01:41,435 - spam_detector - INFO - ============================================================
+2026-01-04 02:01:41,490 - spam_detector - INFO - 👋 Application terminée
+2026-01-04 02:01:41,491 - spam_detector - INFO - ============================================================
+2026-01-05 00:59:15,589 - spam_detector - INFO - ============================================================
+2026-01-05 00:59:15,591 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 00:59:15,602 - spam_detector - INFO - ============================================================
+2026-01-05 00:59:43,170 - spam_detector - INFO - ============================================================
+2026-01-05 00:59:43,175 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 00:59:43,192 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 00:59:43,209 - spam_detector - INFO - ============================================================
+2026-01-05 00:59:47,098 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 01:07:43,746 - spam_detector - INFO - ============================================================
+2026-01-05 01:07:43,768 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 01:07:43,770 - spam_detector - INFO - ============================================================
+2026-01-05 01:18:11,588 - spam_detector - INFO - ============================================================
+2026-01-05 01:18:11,589 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:18:11,590 - spam_detector - INFO - ============================================================
+2026-01-05 01:21:12,404 - spam_detector - INFO - ============================================================
+2026-01-05 01:21:12,407 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:21:12,408 - spam_detector - INFO - ============================================================
+2026-01-05 01:21:19,703 - spam_detector - INFO - ============================================================
+2026-01-05 01:21:19,704 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 01:21:19,705 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 01:21:19,705 - spam_detector - INFO - ============================================================
+2026-01-05 01:21:21,783 - spam_detector - CRITICAL - ❌ ERREUR CRITIQUE: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+Traceback (most recent call last):
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\main.py", line 33, in main
+    app = MainWindow()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 40, in __init__
+    self.create_widgets()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 54, in create_widgets
+    self.create_tabs()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\main_window.py", line 134, in create_tabs
+    self.dashboard_tab = DashboardTab(
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\dashboard_tab.py", line 34, in __init__
+    self.create_modern_interface()
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\dashboard_tab.py", line 57, in create_modern_interface
+    visualizations_section = self.create_visualizations_section(main_container)
+  File "C:\Users\dell\Desktop\cv\cv\Détection de Spam Email avec Machine Learning\views\dashboard_tab.py", line 311, in create_visualizations_section
+    side_charts_frame.pack(side=tk.RIGHT, fill=tk.BOTH, expand=False, width=300)
+  File "C:\Users\dell\AppData\Local\Programs\Python\Python310\lib\tkinter\__init__.py", line 2425, in pack_configure
+    self.tk.call(
+_tkinter.TclError: bad option "-width": must be -after, -anchor, -before, -expand, -fill, -in, -ipadx, -ipady, -padx, -pady, or -side
+2026-01-05 01:21:36,344 - spam_detector - INFO - ============================================================
+2026-01-05 01:21:36,345 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 01:21:36,346 - spam_detector - INFO - ============================================================
+2026-01-05 01:28:24,628 - spam_detector - INFO - ============================================================
+2026-01-05 01:28:24,629 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:28:24,630 - spam_detector - INFO - ============================================================
+2026-01-05 01:28:27,580 - spam_detector - INFO - ============================================================
+2026-01-05 01:28:27,580 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 01:28:27,581 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 01:28:27,582 - spam_detector - INFO - ============================================================
+2026-01-05 01:28:29,318 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 01:31:38,783 - spam_detector - INFO - ============================================================
+2026-01-05 01:31:38,787 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 01:31:38,821 - spam_detector - INFO - ============================================================
+2026-01-05 01:41:27,460 - spam_detector - INFO - ============================================================
+2026-01-05 01:41:27,462 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:41:27,463 - spam_detector - INFO - ============================================================
+2026-01-05 01:41:31,085 - spam_detector - INFO - ============================================================
+2026-01-05 01:41:31,087 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 01:41:31,087 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 01:41:31,088 - spam_detector - INFO - ============================================================
+2026-01-05 01:41:33,250 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 01:43:15,627 - spam_detector - INFO - ============================================================
+2026-01-05 01:43:15,681 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 01:43:15,683 - spam_detector - INFO - ============================================================
+2026-01-05 01:55:42,807 - spam_detector - INFO - ============================================================
+2026-01-05 01:55:42,807 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:55:42,809 - spam_detector - INFO - ============================================================
+2026-01-05 01:55:45,278 - spam_detector - INFO - ============================================================
+2026-01-05 01:55:45,278 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 01:55:45,279 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 01:55:45,280 - spam_detector - INFO - ============================================================
+2026-01-05 01:55:46,814 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 01:58:28,165 - spam_detector - INFO - ============================================================
+2026-01-05 01:58:28,201 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 01:58:28,227 - spam_detector - INFO - ============================================================
+2026-01-05 01:58:44,874 - spam_detector - INFO - ============================================================
+2026-01-05 01:58:44,874 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:58:44,874 - spam_detector - INFO - ============================================================
+2026-01-05 01:59:25,095 - spam_detector - INFO - ============================================================
+2026-01-05 01:59:25,096 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 01:59:25,098 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:02,801 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:02,801 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 02:01:02,801 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:05,519 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:05,519 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 02:01:05,519 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 02:01:05,519 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:07,432 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 02:01:12,868 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:12,902 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 02:01:12,903 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:24,930 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:24,930 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 02:01:24,930 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:27,220 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:27,236 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 02:01:27,236 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 02:01:27,236 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:28,850 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 02:01:39,849 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:39,864 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 02:01:39,876 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:59,950 - spam_detector - INFO - ============================================================
+2026-01-05 02:01:59,951 - spam_detector - INFO - 🚀 Application démarrée
+2026-01-05 02:01:59,952 - spam_detector - INFO - ============================================================
+2026-01-05 02:02:02,363 - spam_detector - INFO - ============================================================
+2026-01-05 02:02:02,363 - spam_detector - INFO - 🚀 Démarrage de Spam Detector Pro v2.0.0
+2026-01-05 02:02:02,363 - spam_detector - INFO - 🔧 Paramètres: 7 chargés
+2026-01-05 02:02:02,363 - spam_detector - INFO - ============================================================
+2026-01-05 02:02:03,884 - spam_detector - INFO - ✅ Application lancée avec succès
+2026-01-05 02:03:31,822 - spam_detector - INFO - ============================================================
+2026-01-05 02:03:31,845 - spam_detector - INFO - 👋 Application terminée
+2026-01-05 02:03:31,846 - spam_detector - INFO - ============================================================
