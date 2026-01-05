@@ -190,7 +190,7 @@ Permission is hereby granted...
 
 - **Achraf Allali** - *Développeur Principal* - [GitHub](https://github.com/AchrafAllali)
 
-## 🙏 Remerciements
+## ❤️ Remerciements
 
 - **Scikit-learn Team** pour l'excellente bibliothèque ML
 - **Python Software Foundation** pour le langage Python
