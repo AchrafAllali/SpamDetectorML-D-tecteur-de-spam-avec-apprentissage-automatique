@@ -119,15 +119,23 @@ SpamShield-AI/
 ## 📸 Captures d'Écran
 
 ### Dashboard Principal
-![Dashboard](screenshots/dashboard.png)
+
+<img width="1920" height="979" alt="image" src="https://github.com/user-attachments/assets/f5bda118-eb06-446b-8cc7-3209009108bc" />
+<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/3cce16a1-e9e3-4678-9ff8-4f659d9845a7" />
+<img width="1920" height="1018" alt="image" src="https://github.com/user-attachments/assets/aa6b6a42-6564-4b89-bcb3-f4d535a789fe" />
+
 *Interface moderne avec métriques en temps réel et visualisations*
 
 ### Analyse en Temps Réel
-![Analysis](screenshots/analysis.png)
+
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/d068cba0-7652-4552-a192-58a0ec21a9bc" />
+
 *Système d'analyse interactif avec classification automatique*
 
 ### Historique des Prédictions
-![History](screenshots/history.png)
+<img width="1920" height="1017" alt="image" src="https://github.com/user-attachments/assets/24024e08-6d48-4063-a610-564070871210" />
+<img width="900" height="799" alt="image" src="https://github.com/user-attachments/assets/080592cf-d769-4519-a8ce-d65df0aa8d2a" />
+
 *Gestion complète de l'historique avec filtres et export*
 
 ## 🎯 Utilisation
